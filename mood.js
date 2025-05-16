@@ -1,3 +1,6 @@
+let userName = "Kailan";
+let moodToday = "happy";
+
 function getMoodMessage(name, mood) {
   let message = "Hey " + userName + "! ";
 
